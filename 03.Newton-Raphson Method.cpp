@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+//Newton-Raphson Method
 // Define the function f(x) = x^3 - 2x - 5
 double f(double x) {
     return x * x * x - 2 * x - 5;
