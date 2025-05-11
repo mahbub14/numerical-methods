@@ -1,0 +1,5 @@
+# Common build artifacts
+*.out
+*.obj
+*.dll
+*.log
